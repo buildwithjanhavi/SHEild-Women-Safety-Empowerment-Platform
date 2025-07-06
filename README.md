@@ -49,7 +49,18 @@ Despite technological advancements, women still face safety concerns — unrelia
 | **Vercel**          | Fast, global hosting and deployment       |
 | **Figma (Prototype)** | UI/UX conceptual design during ideation phase |
 
+
 ---
+## 📸 Screenshots
+
+### 🖼️ Interface Overview
+![Main Overview](https://github.com/buildwithjanhavi/SHEild-Women-Safety-Empowerment-Platform/blob/main/landing%20page.png)
+
+### 🌌 Key Features Displayed
+![Key Features](https://github.com/buildwithjanhavi/SHEild-Women-Safety-Empowerment-Platform/blob/main/key%20features-sos%2C%20safety%20zone%2C%20community%20tips.png)
+
+### 💾 SOS ALERT 
+![SOS ALERT](https://github.com/buildwithjanhavi/SHEild-Women-Safety-Empowerment-Platform/blob/main/sos%20alert.png)
 
 
 ## 🏆 Makethon 2025 — Judging Criteria Alignment
