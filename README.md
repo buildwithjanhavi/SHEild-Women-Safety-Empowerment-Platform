@@ -67,21 +67,6 @@ Addresses global women's safety concerns with real-world startup potential.
 Clean, animated UI, beginner-friendly design, and live demo ready for hackathons and evaluation.
 
 ---
-
-## 🚀 Getting Started Locally
-
-git clone ()
-# -SHE-ild-Women-Safety-Empowerment-Platform
-
-## 📁 Project Structure
-
-SHEild-Website/
-├── index.html       # Main landing page
-├── style.css        # Styling with responsiveness, animations
-├── script.js        # Interactive behavior, counters, alerts
-├── README.md        # Project documentation
-└── assets/          # Images, icons (optional)
-
 ## 💡 Future Enhancements
 
 - Live Google Maps integration for Safe Zone visualization  
