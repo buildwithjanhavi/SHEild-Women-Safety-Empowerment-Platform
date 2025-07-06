@@ -10,7 +10,7 @@ SHE❤️ild is a women-focused safety platform designed to empower women with r
 
 ## 🚀 Live Demo
 
-🔗 [View the Live Website](https://your-vercel-link-here.vercel.app)
+🔗 [View the Live Website](https://sh-eild-women-safety-empowerment-pl.vercel.app/)
 
 ---
 
@@ -51,13 +51,6 @@ Despite technological advancements, women still face safety concerns — unrelia
 
 ---
 
-## 📸 Screenshots
-
-| Landing Page                      | Features Section                  | SOS Alert Modal                    |
-|-----------------------------------|------------------------------------|------------------------------------|
-| *(Insert Screenshot Here)*        | *(Insert Screenshot Here)*         | *(Insert Screenshot Here)*         |
-
----
 
 ## 🏆 Makethon 2025 — Judging Criteria Alignment
 
@@ -77,8 +70,7 @@ Clean, animated UI, beginner-friendly design, and live demo ready for hackathons
 
 ## 🚀 Getting Started Locally
 
-git clone https://github.com/yourusername/SHEild-Website.git
-cd SHEild-Website
+git clone ()
 # -SHE-ild-Women-Safety-Empowerment-Platform
 
 ## 📁 Project Structure
@@ -104,7 +96,7 @@ SHEild-Website/
 
 For queries, suggestions, or collaborations, feel free to reach out:
 
-📧 your-email@example.com  
+📧 janhavi.dubey2025@gmail.com
 
 **Together, let’s empower women with technology and create safer communities.**
 
