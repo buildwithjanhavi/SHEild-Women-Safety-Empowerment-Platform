@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SHE❤️ild - Women Safety Platform</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="decorative-circle"></div>
+
+    <header>
+        <h1>SHE❤️ild</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#features">Features</a></li>
+                <li><a href="#testimonials">Testimonials</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h2>Empowering Women with Safety Tools</h2>
+        <p>Your safety is our priority. Join SHE❤️ild today!</p>
+        <button onclick="alert('Stay Tuned for More!')">Learn More</button>
+    </section>
+
+    <section class="about" id="about">
+        <h2>About SHE❤️ild</h2>
+        <p>SHE❤️ild is dedicated to enhancing women's safety with accessible, technology-driven solutions like emergency alerts, safe zones, and community support.</p>
+        <div class="counters">
+            <div>
+                <h3 id="usersCount">0</h3>
+                <p>Active Users</p>
+            </div>
+            <div>
+                <h3 id="alertsCount">0</h3>
+                <p>Alerts Sent</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="features" id="features">
+        <h2>Key Features</h2>
+        <div class="feature-list">
+            <div>
+                <img src="https://cdn-icons-png.flaticon.com/512/2991/2991106.png" alt="SOS" />
+                <h3>Emergency SOS</h3>
+                <p>Instant emergency alerts sent to contacts.</p>
+                <button id="sosButton">Send SOS</button>
+            </div>
+            <div>
+                <img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" alt="Map" />
+                <h3>Safe Zone Maps</h3>
+                <p>Locate nearby safe spaces in real-time.</p>
+                <button id="safeZoneBtn">View Safe Zones</button>
+            </div>
+            <div>
+                <img src="https://cdn-icons-png.flaticon.com/512/1049/1049161.png" alt="Community" />
+                <h3>Community Tips</h3>
+                <p>Get verified safety tips from local communities.</p>
+                <button id="tipsBtn">View Tips</button>
+            </div>
+        </div>
+    </section>
+
+    <section class="testimonials" id="testimonials">
+        <h2>What People Say</h2>
+        <div class="testimonial-slider">
+            <div class="testimonial active">
+                <p>"SHE❤️ild made me feel safer when commuting late at night."</p>
+                <h4>- Priya, College Student</h4>
+            </div>
+            <div class="testimonial">
+                <p>"A must-have safety app for every woman."</p>
+                <h4>- Riya, Working Professional</h4>
+            </div>
+            <div class="testimonial">
+                <p>"Thanks to SHE❤️ild, I always know the safe zones nearby."</p>
+                <h4>- Neha, Traveler</h4>
+            </div>
+        </div>
+    </section>
+
+    <section class="contact" id="contact">
+        <h2>Contact Us</h2>
+        <form id="contactForm">
+            <input type="text" id="name" placeholder="Your Name" required>
+            <input type="email" id="email" placeholder="Your Email" required>
+            <textarea id="message" placeholder="Your Message" required></textarea>
+            <button type="submit">Send Message</button>
+        </form>
+    </section>
+
+    <a href="#contact" class="floating-btn" title="Contact Us">📩</a>
+    <button onclick="scrollToTop()" id="backToTop">⬆️</button>
+
+    <footer>
+        <p>© 2025 SHE❤️ild. Empowering Women with Safety Tools.</p>
+        <div class="social-links">
+            <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384031.png" alt="Instagram"></a>
+            <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384015.png" alt="LinkedIn"></a>
+            <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384017.png" alt="Twitter"></a>
+        </div>
+    </footer>
+
+    <div id="sosModal" class="modal">
+        <div class="modal-content">
+            <h3>🚨 SOS Alert Sent!</h3>
+            <p>Your emergency alert has been triggered. Help is on the way.</p>
+            <button id="closeModal">Close</button>
+        </div>
+    </div>
+
+<script src="script.js"></script>
+</body>
+</html>
+
+
