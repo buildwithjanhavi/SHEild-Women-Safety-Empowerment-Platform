@@ -77,7 +77,6 @@ Clean, animated UI, beginner-friendly design, and live demo ready for hackathons
 
 ## 🚀 Getting Started Locally
 
-```bash
 git clone https://github.com/yourusername/SHEild-Website.git
 cd SHEild-Website
 # -SHE-ild-Women-Safety-Empowerment-Platform
